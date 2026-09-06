@@ -11,10 +11,7 @@ Bolean
 NULL=>Standalone value//object
 undefined  //undefined(type)
 symbol->check uniqeness
-
 object 
-
-
 */
 
 console.log(typeof undefined);
