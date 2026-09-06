@@ -1,2 +1,2 @@
 # JavaScript
-ECMA-SCRIPT LINK:- https://tc39.es/ecma262/
+ECMAScript specification:- https://tc39.es/ecma262/
