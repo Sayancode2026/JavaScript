@@ -69,6 +69,6 @@ let a=20
 let b=++a+3//pre increment a=21
 let c=b%3
 let d=a++ +2//take a=21
-console.log(a)//post increment and valus is 22
+console.log(a)//after post increment value is 22
 let e =d%3
 console.table([c,e]);
