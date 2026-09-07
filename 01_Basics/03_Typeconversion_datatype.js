@@ -36,9 +36,39 @@
 
 
 
- let someNumber=35
- let stringNumber=String(someNumber);
- console.log(stringNumber);
- console.log(typeof(stringNumber));//String
+//  let someNumber=35
+//  let stringNumber=String(someNumber);
+//  console.log(stringNumber);
+//  console.log(typeof(stringNumber));
 
 
+//**************************Operations********************* */
+// let value=10
+// let negValue=-value
+// console.log(negValue)
+
+ //string
+// let str1="Hello"
+// let str2=" Sayan"
+// let str3=str1+str2
+// console.log(str3)
+
+
+//
+// console.log("1"+2)
+// console.log(1+"2")
+// console.log("1"+2+2)
+// console.log(1+2+"2")
+// console.log((3+4)%7+4)
+
+// console.log(true)//true
+// console.log(+true)//1
+
+
+let a=20
+let b=++a+3//pre increment a=21
+let c=b%3
+let d=a++ +2//take a=21
+console.log(a)//post increment and valus is 22
+let e =d%3
+console.table([c,e]);
