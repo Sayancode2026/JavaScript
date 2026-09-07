@@ -72,3 +72,12 @@ let d=a++ +2//take a=21
 console.log(a)//after post increment value is 22
 let e =d%3
 console.table([c,e]);
+/*
+22
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│ 0       │ 0      │
+│ 1       │ 2      │
+└─────────┴────────┘
+*/
