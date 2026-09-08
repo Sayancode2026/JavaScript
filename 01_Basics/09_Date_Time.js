@@ -44,5 +44,5 @@ console.log(`Today is ${newDate.toDateString()} and in day is ${newDate.getDate(
 const newDate3 = new Date();
 console.log(newDate3.toLocaleString('default', {
     weekday: "long"
-}));
+}));//Tuesday
 
