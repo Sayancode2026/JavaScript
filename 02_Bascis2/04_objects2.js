@@ -52,3 +52,13 @@ console.log(Object.values(FreeFireUser))
 console.log(Object.entries(FreeFireUser))
 
 console.log(FreeFireUser.hasOwnProperty('isLoggedIn'));//true
+
+//Object de-structure 
+const course={
+    coursename:"JS",
+    price:"999",
+    coursInstructor:"Sayan"
+}
+
+const{coursInstructor:Instructor}=course
+console.log(Instructor);
